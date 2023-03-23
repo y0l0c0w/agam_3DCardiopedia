@@ -35,7 +35,7 @@ export default class HomeScreen extends React.Component {
                     width: 90,
                     height: 90,
                   }}
-                  source={require('Cardiopedia\\logo-circle.png')}
+                  source={require('/Users/Agam/Desktop/agam_3DCardiopedia/logo-circle.png')}
                 />
               </View>
               {/*Sets welcome space*/}
